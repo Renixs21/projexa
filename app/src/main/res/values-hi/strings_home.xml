@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greet_morning">सुप्रभात</string>
+    <string name="greet_afternoon">शुभ दोपहर</string>
+    <string name="greet_evening">शुभ संध्या</string>
+    <string name="radar_nearest">सबसे नज़दीकी बाधा</string>
+    <string name="home_sensors">सेंसर</string>
+    <string name="home_quick">त्वरित पहुँच</string>
+    <string name="action_nav_sub">कंपन वाले दिशा-निर्देशों के साथ चलें</string>
+    <string name="action_comm_sub">बोलें, सुनें, ब्रेल</string>
+</resources>

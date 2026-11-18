@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_home">ಮುಖಪುಟ</string>
+    <string name="tab_navigation">ನ್ಯಾವಿಗೇಶನ್</string>
+    <string name="tab_communicate">ಸಂವಹನ</string>
+    <string name="tab_device">ಸಾಧನ</string>
+    <string name="tab_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <string name="settings_title">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_display">ಡಿಸ್‌ಪ್ಲೇ</string>
+    <string name="settings_font_size">ಅಕ್ಷರದ ಗಾತ್ರ</string>
+    <string name="settings_high_contrast">ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್</string>
+    <string name="settings_simple_mode">ಸರಳ ಮೋಡ್ (ಸಾಧನ ಟ್ಯಾಬ್ ಮರೆಮಾಡುತ್ತದೆ)</string>
+    <string name="settings_haptics">ಕಂಪನ</string>
+    <string name="settings_pulse">ನ್ಯಾವಿಗೇಶನ್ ಕಂಪನದ ಉದ್ದ</string>
+    <string name="settings_cue_distance">ತಿರುವಿಗೆ ಇಷ್ಟು ದೂರ ಮೊದಲು ಕಂಪನ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <string name="settings_speech">ಧ್ವನಿ</string>
+    <string name="settings_speech_rate">ಮಾತಿನ ವೇಗ</string>
+    <string name="settings_belt">ಬೆಲ್ಟ್ (ಬೆಲ್ಟ್ ಫರ್ಮ್‌ವೇರ್‌ನಲ್ಲಿ ನಿಗದಿ)</string>
+    <string name="settings_belt_info">ಅಡೆತಡೆ ಪತ್ತೆ ದೂರ: 50 ಸೆಂ.ಮೀ. ಅಡೆತಡೆಯ ಕಂಪನ ಯಾವಾಗಲೂ ನ್ಯಾವಿಗೇಶನ್ ಕಂಪನಕ್ಕಿಂತ ಮೊದಲು ಬರುತ್ತದೆ.</string>
+    <string name="settings_selected">%1$s, ಆಯ್ಕೆಯಾಗಿದೆ</string>
+
+    <string name="opt_normal">ಸಾಮಾನ್ಯ</string>
+    <string name="opt_large">ದೊಡ್ಡದು</string>
+    <string name="opt_xlarge">ತುಂಬಾ ದೊಡ್ಡದು</string>
+    <string name="opt_shorter">ಚಿಕ್ಕದು</string>
+    <string name="opt_longer">ಉದ್ದ</string>
+    <string name="opt_slow">ನಿಧಾನ</string>
+    <string name="opt_fast">ವೇಗ</string>
+
+    <string name="onboarding_title">PROJEXA ಗೆ ಸ್ವಾಗತ</string>
+    <string name="onboarding_body">ಈ ಅಪ್ಲಿಕೇಶನ್ ನಿಮ್ಮ ಹ್ಯಾಪ್ಟಿಕ್ ನ್ಯಾವಿಗೇಶನ್ ಬೆಲ್ಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತದೆ. ಅಡೆತಡೆ ಹತ್ತಿರವಿದ್ದಾಗ ಬೆಲ್ಟ್ ಕಂಪಿಸುತ್ತದೆ ಮತ್ತು ನಡೆದು ಹೋಗುವ ದಾರಿಯನ್ನೂ ತೋರಿಸಬಲ್ಲದು.\n\nಪ್ರಾರಂಭಿಸಲು: ಫೋನ್‌ನ ಬ್ಲೂಟೂತ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ \"PROJEXA\" ಅನ್ನು ಜೋಡಿಸಿ, ನಂತರ ಮುಖಪುಟದಲ್ಲಿ ಸಂಪರ್ಕಿಸಿ ಒತ್ತಿ.</string>
+    <string name="onboarding_start">ಪ್ರಾರಂಭಿಸಿ</string>
+</resources>

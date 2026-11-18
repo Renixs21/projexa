@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <path android:fillColor="#090D14" android:pathData="M0,0h96v96h-96z" />
+    <!-- belt band -->
+    <path android:fillColor="#172333" android:pathData="M12,40h72v16h-72z" />
+    <!-- four motor nodes -->
+    <path android:fillColor="#398BFF" android:pathData="M48,22m-8,0a8,8 0 1,1 16,0a8,8 0 1,1 -16,0" />
+    <path android:fillColor="#39C6E8" android:pathData="M48,74m-8,0a8,8 0 1,1 16,0a8,8 0 1,1 -16,0" />
+    <path android:fillColor="#398BFF" android:pathData="M20,48m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <path android:fillColor="#398BFF" android:pathData="M76,48m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+</vector>

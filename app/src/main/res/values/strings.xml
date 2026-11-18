@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PROJEXA</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_navigation">Navigation</string>
+    <string name="tab_communicate">Communicate</string>
+    <string name="tab_device">Device</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_display">Display</string>
+    <string name="settings_font_size">Text size</string>
+    <string name="settings_high_contrast">High contrast</string>
+    <string name="settings_simple_mode">Simple mode (hides the Device tab)</string>
+    <string name="settings_haptics">Vibration</string>
+    <string name="settings_pulse">Navigation pulse length</string>
+    <string name="settings_cue_distance">Turn vibration starts this far before a turn</string>
+    <string name="settings_speech">Speech</string>
+    <string name="settings_speech_rate">Speaking speed</string>
+    <string name="settings_belt">Belt (fixed in the belt firmware)</string>
+    <string name="settings_belt_info">Obstacle detection distance: 50 cm. Obstacle vibration always overrides navigation vibration.</string>
+    <string name="settings_selected">%1$s, selected</string>
+
+    <string name="opt_normal">Normal</string>
+    <string name="opt_large">Large</string>
+    <string name="opt_xlarge">Extra large</string>
+    <string name="opt_shorter">Shorter</string>
+    <string name="opt_longer">Longer</string>
+    <string name="opt_slow">Slow</string>
+    <string name="opt_fast">Fast</string>
+
+    <string name="onboarding_title">Welcome to PROJEXA</string>
+    <string name="onboarding_body">This app connects to your haptic navigation belt. The belt vibrates when an obstacle is near and can guide you along a walking route.\n\nTo begin: pair \"PROJEXA\" in your phone\'s Bluetooth settings, then press Connect on the Home screen.</string>
+    <string name="onboarding_start">Get started</string>
+</resources>

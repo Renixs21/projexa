@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Projexa" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#090D14</item>
+        <item name="android:statusBarColor">#090D14</item>
+        <item name="android:navigationBarColor">#090D14</item>
+        <!-- Dark launch splash instead of the default white one -->
+        <item name="android:windowSplashScreenBackground">#090D14</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#090D14</item>
+    </style>
+</resources>

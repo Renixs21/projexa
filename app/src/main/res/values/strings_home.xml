@@ -1,0 +1,10 @@
+<resources>
+    <string name="greet_morning">Good morning</string>
+    <string name="greet_afternoon">Good afternoon</string>
+    <string name="greet_evening">Good evening</string>
+    <string name="radar_nearest">Nearest obstacle</string>
+    <string name="home_sensors">Sensors</string>
+    <string name="home_quick">Quick access</string>
+    <string name="action_nav_sub">Walk with haptic directions</string>
+    <string name="action_comm_sub">Speak, listen, Braille</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dir_front">आगे</string>
+    <string name="dir_back">पीछे</string>
+    <string name="dir_left">बाएँ</string>
+    <string name="dir_right">दाएँ</string>
+
+    <string name="lvl_clear">साफ़</string>
+    <string name="lvl_caution">सावधान</string>
+    <string name="lvl_warning">चेतावनी</string>
+    <string name="lvl_danger">खतरा</string>
+    <string name="lvl_critical">अत्यंत खतरा</string>
+    <string name="lvl_no_reading">कोई रीडिंग नहीं</string>
+
+    <string name="tile_no_echo">कोई प्रतिध्वनि नहीं</string>
+    <string name="tile_unavailable">उपलब्ध नहीं</string>
+    <string name="motor_on">मोटर चालू</string>
+    <string name="motor_off">मोटर बंद</string>
+    <string name="motor_unknown">मोटर की स्थिति अज्ञात</string>
+    <string name="tile_description">%1$s: %2$s, %3$s, %4$s</string>
+
+    <string name="home_welcome">स्वागत है। आपकी हैप्टिक नेविगेशन बेल्ट।</string>
+    <string name="home_belt_connection">बेल्ट कनेक्शन</string>
+    <string name="home_not_connected">कनेक्ट नहीं है</string>
+    <string name="home_connected_to">%1$s से कनेक्ट है</string>
+    <string name="home_connecting_to">%1$s से कनेक्ट हो रहा है…</string>
+    <string name="home_reconnecting">कनेक्शन टूट गया। %1$s से दोबारा कनेक्ट हो रहा है (प्रयास %2$d)…</string>
+    <string name="home_connect">बेल्ट से कनेक्ट करें</string>
+    <string name="home_cancel_connecting">कनेक्ट करना रद्द करें</string>
+    <string name="home_disconnect">डिस्कनेक्ट करें</string>
+    <string name="home_live_monitoring">बाधाओं की लाइव निगरानी</string>
+    <string name="mon_unavailable">लाइव निगरानी उपलब्ध नहीं: बेल्ट कनेक्ट नहीं है। 50 सेमी के भीतर बाधा होने पर बेल्ट फिर भी अपने आप कंपन करती है।</string>
+    <string name="mon_waiting">कनेक्ट है। पहली सेंसर रीडिंग का इंतज़ार है…</string>
+    <string name="mon_stale">बेल्ट से हाल का कोई डेटा नहीं आया। डेटा आने तक मान छिपे हैं।</string>
+    <string name="mon_active">निगरानी चालू है</string>
+
+    <string name="nav_title">नेविगेशन</string>
+    <string name="nav_dismiss">बंद करें</string>
+    <string name="nav_finding_route">%1$s तक पैदल रास्ता खोजा जा रहा है…</string>
+    <string name="nav_cancel">रद्द करें</string>
+    <string name="nav_safety_title">सुरक्षा</string>
+    <string name="nav_safety_text">जीपीएस यह नहीं बता सकता कि सड़क पार करना सुरक्षित है या नहीं। सड़क पार करने के लिए केवल इन दिशाओं पर भरोसा न करें। बेल्ट का बाधा-कंपन हमेशा नेविगेशन-कंपन पर भारी रहता है।</string>
+    <string name="nav_open_tutorial">कंपन ट्यूटोरियल: कंपन पहचानना सीखें</string>
+    <string name="nav_where_to">कहाँ जाना है?</string>
+    <string name="nav_search_hint">जगह या पता खोजें</string>
+    <string name="nav_search">खोजें</string>
+    <string name="nav_searching">खोज रहे हैं…</string>
+    <string name="nav_shortcuts">शॉर्टकट</string>
+    <string name="nav_go_home">घर जाएँ</string>
+    <string name="nav_go_work">काम पर जाएँ</string>
+    <string name="nav_results">नतीजे</string>
+    <string name="nav_walk_here">यहाँ पैदल जाएँ</string>
+    <string name="nav_save_home">घर के रूप में सहेजें</string>
+    <string name="nav_save_work">कार्यस्थल के रूप में सहेजें</string>
+    <string name="nav_recent">हाल के गंतव्य</string>
+    <string name="nav_walking_to">%1$s की ओर पैदल</string>
+    <string name="nav_in_meters">%1$d मीटर बाद</string>
+    <string name="nav_remaining">%1$d मीटर बाकी, लगभग %2$d मिनट</string>
+    <string name="nav_belt_vibration">बेल्ट का कंपन: %1$s</string>
+    <string name="nav_off_route">रास्ते से हट गए। नया रास्ता बन रहा है…</string>
+    <string name="nav_no_belt">बेल्ट कनेक्ट नहीं है: दिशाएँ केवल स्क्रीन पर हैं, कंपन नहीं होगा।</string>
+    <string name="nav_gps_accuracy">जीपीएस की सटीकता लगभग %1$d मीटर</string>
+    <string name="nav_done">हो गया</string>
+    <string name="nav_stop">नेविगेशन बंद करें</string>
+
+    <string name="tut_back">नेविगेशन पर वापस</string>
+    <string name="tut_title">कंपन ट्यूटोरियल</string>
+    <string name="tut_gps_note">जीपीएस रूट मार्गदर्शन के लिए इसी पेज पर बेल्ट के नेविगेशन कंपन सीखें।</string>
+    <string name="tut_desc">नेविगेशन संकेत एक मोटर पर लयबद्ध कंपन होते हैं। बाधा की चेतावनी लगातार कंपन होती है और हमेशा पहले आती है। फ़ोन डिस्कनेक्ट होने पर संकेत कुछ सेकंड में अपने आप रुक जाता है।</string>
+    <string name="tut_connect">संकेत महसूस करने के लिए बेल्ट से कनेक्ट करें।</string>
+    <string name="tut_feel">महसूस करें: %1$s</string>
+    <string name="tut_stop_cue">%1$s रोकें</string>
+    <string name="tut_stop_all">सभी संकेत रोकें</string>
+    <string name="cue_straight">सीधे चलते रहें</string>
+    <string name="cue_straight_meaning">आगे की ओर धीमा कंपन</string>
+    <string name="cue_left">बाएँ मुड़ें</string>
+    <string name="cue_left_meaning">बाईं ओर धीमा कंपन</string>
+    <string name="cue_right">दाएँ मुड़ें</string>
+    <string name="cue_right_meaning">दाईं ओर धीमा कंपन</string>
+    <string name="cue_stop">रुकें</string>
+    <string name="cue_stop_meaning">पीछे की ओर तेज़ कंपन</string>
+    <string name="cue_arrived">पहुँच गए</string>
+    <string name="cue_arrived_meaning">आगे की ओर बहुत तेज़ कंपन</string>
+
+    <string name="comm_title">बातचीत</string>
+    <string name="comm_language_title">भाषा (बोलने और सुनने के लिए)</string>
+    <string name="comm_selected">%1$s (चयनित)</string>
+    <string name="comm_listen_title">दूसरे व्यक्ति को सुनें</string>
+    <string name="comm_listening">सुन रहे हैं…</string>
+    <string name="comm_hearing">सुनाई दिया: %1$s</string>
+    <string name="comm_listen_hint">फ़ोन बोलने वाले के पास रखें, बटन दबाएँ और उनसे बोलने को कहें।</string>
+    <string name="comm_listen">सुनें</string>
+    <string name="comm_stop_listening">सुनना बंद करें</string>
+    <string name="comm_conversation">बातचीत का इतिहास</string>
+    <string name="comm_no_messages">अभी कोई संदेश नहीं।</string>
+    <string name="comm_you">आप</string>
+    <string name="comm_other">दूसरा व्यक्ति</string>
+    <string name="comm_clear">बातचीत साफ़ करें</string>
+    <string name="comm_quick">त्वरित संदेश (बोलकर सुनाए जाते हैं)</string>
+    <string name="comm_type">संदेश लिखें</string>
+    <string name="comm_message">संदेश</string>
+    <string name="comm_speak">बोलें</string>
+    <string name="comm_braille_title">ब्रेल डिस्प्ले</string>
+    <string name="comm_braille_desc">टॉकबैक चालू होने पर एंड्रॉइड स्क्रीन रीडर का आउटपुट, ऊपर की बातचीत सहित, जुड़े हुए ब्लूटूथ ब्रेल डिस्प्ले को भेजता है। PROJEXA किसी निर्माता का अपना प्रोटोकॉल इस्तेमाल नहीं करता।</string>
+    <string name="comm_braille_pair">1. ब्लूटूथ सेटिंग्स में डिस्प्ले पेयर करें</string>
+    <string name="comm_braille_access">2. एक्सेसिबिलिटी सेटिंग्स खोलें (टॉकबैक, ब्रेल)</string>
+</resources>

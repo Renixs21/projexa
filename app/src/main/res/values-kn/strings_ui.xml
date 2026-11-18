@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dir_front">ಮುಂದೆ</string>
+    <string name="dir_back">ಹಿಂದೆ</string>
+    <string name="dir_left">ಎಡ</string>
+    <string name="dir_right">ಬಲ</string>
+
+    <string name="lvl_clear">ಸ್ಪಷ್ಟ</string>
+    <string name="lvl_caution">ಎಚ್ಚರಿಕೆ</string>
+    <string name="lvl_warning">ಮುನ್ನೆಚ್ಚರಿಕೆ</string>
+    <string name="lvl_danger">ಅಪಾಯ</string>
+    <string name="lvl_critical">ತೀವ್ರ ಅಪಾಯ</string>
+    <string name="lvl_no_reading">ಓದುವಿಕೆ ಇಲ್ಲ</string>
+
+    <string name="tile_no_echo">ಪ್ರತಿಧ್ವನಿ ಇಲ್ಲ</string>
+    <string name="tile_unavailable">ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="motor_on">ಮೋಟಾರ್ ಆನ್</string>
+    <string name="motor_off">ಮೋಟಾರ್ ಆಫ್</string>
+    <string name="motor_unknown">ಮೋಟಾರ್ ಸ್ಥಿತಿ ತಿಳಿದಿಲ್ಲ</string>
+    <string name="tile_description">%1$s: %2$s, %3$s, %4$s</string>
+
+    <string name="home_welcome">ಸ್ವಾಗತ. ನಿಮ್ಮ ಹ್ಯಾಪ್ಟಿಕ್ ನ್ಯಾವಿಗೇಶನ್ ಬೆಲ್ಟ್.</string>
+    <string name="home_belt_connection">ಬೆಲ್ಟ್ ಸಂಪರ್ಕ</string>
+    <string name="home_not_connected">ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ</string>
+    <string name="home_connected_to">%1$s ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="home_connecting_to">%1$s ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="home_reconnecting">ಸಂಪರ್ಕ ಕಡಿತವಾಯಿತು. %1$s ಗೆ ಮತ್ತೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ (ಪ್ರಯತ್ನ %2$d)…</string>
+    <string name="home_connect">ಬೆಲ್ಟ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="home_cancel_connecting">ಸಂಪರ್ಕಿಸುವುದನ್ನು ರದ್ದುಮಾಡಿ</string>
+    <string name="home_disconnect">ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ</string>
+    <string name="home_live_monitoring">ಅಡೆತಡೆಗಳ ನೇರ ಮೇಲ್ವಿಚಾರಣೆ</string>
+    <string name="mon_unavailable">ನೇರ ಮೇಲ್ವಿಚಾರಣೆ ಲಭ್ಯವಿಲ್ಲ: ಬೆಲ್ಟ್ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ. 50 ಸೆಂ.ಮೀ ಒಳಗೆ ಅಡೆತಡೆ ಇದ್ದರೆ ಬೆಲ್ಟ್ ತಾನಾಗಿಯೇ ಕಂಪಿಸುತ್ತದೆ.</string>
+    <string name="mon_waiting">ಸಂಪರ್ಕಗೊಂಡಿದೆ. ಮೊದಲ ಸೆನ್ಸರ್ ಓದುವಿಕೆಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ…</string>
+    <string name="mon_stale">ಬೆಲ್ಟ್‌ನಿಂದ ಇತ್ತೀಚಿನ ಡೇಟಾ ಬಂದಿಲ್ಲ. ಡೇಟಾ ಬರುವವರೆಗೆ ಮೌಲ್ಯಗಳನ್ನು ಮರೆಮಾಡಲಾಗಿದೆ.</string>
+    <string name="mon_active">ಮೇಲ್ವಿಚಾರಣೆ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+
+    <string name="nav_title">ನ್ಯಾವಿಗೇಶನ್</string>
+    <string name="nav_dismiss">ಮುಚ್ಚಿ</string>
+    <string name="nav_finding_route">%1$s ವರೆಗೆ ನಡೆಯುವ ದಾರಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…</string>
+    <string name="nav_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="nav_safety_title">ಸುರಕ್ಷತೆ</string>
+    <string name="nav_safety_text">ರಸ್ತೆ ದಾಟುವುದು ಸುರಕ್ಷಿತವೇ ಎಂದು ಜಿಪಿಎಸ್ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ರಸ್ತೆ ದಾಟಲು ಈ ನಿರ್ದೇಶನಗಳನ್ನು ಮಾತ್ರ ನಂಬಬೇಡಿ. ಬೆಲ್ಟ್‌ನ ಅಡೆತಡೆ ಕಂಪನ ಯಾವಾಗಲೂ ನ್ಯಾವಿಗೇಶನ್ ಕಂಪನಕ್ಕಿಂತ ಮುಖ್ಯ.</string>
+    <string name="nav_open_tutorial">ಕಂಪನ ಟ್ಯುಟೋರಿಯಲ್: ಕಂಪನಗಳನ್ನು ಕಲಿಯಿರಿ</string>
+    <string name="nav_where_to">ಎಲ್ಲಿಗೆ?</string>
+    <string name="nav_search_hint">ಸ್ಥಳ ಅಥವಾ ವಿಳಾಸ ಹುಡುಕಿ</string>
+    <string name="nav_search">ಹುಡುಕಿ</string>
+    <string name="nav_searching">ಹುಡುಕಲಾಗುತ್ತಿದೆ…</string>
+    <string name="nav_shortcuts">ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</string>
+    <string name="nav_go_home">ಮನೆಗೆ ಹೋಗಿ</string>
+    <string name="nav_go_work">ಕೆಲಸಕ್ಕೆ ಹೋಗಿ</string>
+    <string name="nav_results">ಫಲಿತಾಂಶಗಳು</string>
+    <string name="nav_walk_here">ಇಲ್ಲಿಗೆ ನಡೆಯಿರಿ</string>
+    <string name="nav_save_home">ಮನೆ ಎಂದು ಉಳಿಸಿ</string>
+    <string name="nav_save_work">ಕೆಲಸದ ಸ್ಥಳ ಎಂದು ಉಳಿಸಿ</string>
+    <string name="nav_recent">ಇತ್ತೀಚಿನ ಗಮ್ಯಸ್ಥಾನಗಳು</string>
+    <string name="nav_walking_to">%1$s ಕಡೆಗೆ ನಡೆಯುತ್ತಿದ್ದೀರಿ</string>
+    <string name="nav_in_meters">%1$d ಮೀಟರ್ ನಂತರ</string>
+    <string name="nav_remaining">%1$d ಮೀಟರ್ ಬಾಕಿ, ಸುಮಾರು %2$d ನಿಮಿಷ</string>
+    <string name="nav_belt_vibration">ಬೆಲ್ಟ್ ಕಂಪನ: %1$s</string>
+    <string name="nav_off_route">ದಾರಿ ತಪ್ಪಿದೆ. ಹೊಸ ದಾರಿ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತಿದೆ…</string>
+    <string name="nav_no_belt">ಬೆಲ್ಟ್ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ: ನಿರ್ದೇಶನಗಳು ಪರದೆಯ ಮೇಲೆ ಮಾತ್ರ ಇವೆ, ಕಂಪನ ಇರುವುದಿಲ್ಲ.</string>
+    <string name="nav_gps_accuracy">ಜಿಪಿಎಸ್ ನಿಖರತೆ ಸುಮಾರು %1$d ಮೀಟರ್</string>
+    <string name="nav_done">ಮುಗಿಯಿತು</string>
+    <string name="nav_stop">ನ್ಯಾವಿಗೇಶನ್ ನಿಲ್ಲಿಸಿ</string>
+
+    <string name="tut_back">ನ್ಯಾವಿಗೇಶನ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="tut_title">ಕಂಪನ ಟ್ಯುಟೋರಿಯಲ್</string>
+    <string name="tut_gps_note">ಬೆಲ್ಟ್‌ನ ನ್ಯಾವಿಗೇಶನ್ ಕಂಪನಗಳನ್ನು ಕಲಿಯಲು ಈ ಪುಟವನ್ನು ಬಳಸಿ.</string>
+    <string name="tut_desc">ನ್ಯಾವಿಗೇಶನ್ ಸೂಚನೆಗಳು ಒಂದು ಮೋಟಾರ್‌ನಲ್ಲಿ ಲಯಬದ್ಧ ಕಂಪನಗಳು. ಅಡೆತಡೆ ಎಚ್ಚರಿಕೆಗಳು ನಿರಂತರ ಕಂಪನವಾಗಿದ್ದು ಯಾವಾಗಲೂ ಮೊದಲು ಬರುತ್ತವೆ. ಫೋನ್ ಸಂಪರ್ಕ ಕಡಿತವಾದರೆ ಸೂಚನೆ ಕೆಲವು ಸೆಕೆಂಡುಗಳಲ್ಲಿ ತಾನಾಗಿಯೇ ನಿಲ್ಲುತ್ತದೆ.</string>
+    <string name="tut_connect">ಸೂಚನೆಗಳನ್ನು ಅನುಭವಿಸಲು ಬೆಲ್ಟ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="tut_feel">ಅನುಭವಿಸಿ: %1$s</string>
+    <string name="tut_stop_cue">%1$s ನಿಲ್ಲಿಸಿ</string>
+    <string name="tut_stop_all">ಎಲ್ಲಾ ಸೂಚನೆಗಳನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="cue_straight">ನೇರವಾಗಿ ಮುಂದುವರಿಯಿರಿ</string>
+    <string name="cue_straight_meaning">ಮುಂಭಾಗದಲ್ಲಿ ನಿಧಾನ ಕಂಪನ</string>
+    <string name="cue_left">ಎಡಕ್ಕೆ ತಿರುಗಿ</string>
+    <string name="cue_left_meaning">ಎಡಭಾಗದಲ್ಲಿ ನಿಧಾನ ಕಂಪನ</string>
+    <string name="cue_right">ಬಲಕ್ಕೆ ತಿರುಗಿ</string>
+    <string name="cue_right_meaning">ಬಲಭಾಗದಲ್ಲಿ ನಿಧಾನ ಕಂಪನ</string>
+    <string name="cue_stop">ನಿಲ್ಲಿ</string>
+    <string name="cue_stop_meaning">ಹಿಂಭಾಗದಲ್ಲಿ ವೇಗದ ಕಂಪನ</string>
+    <string name="cue_arrived">ತಲುಪಿದ್ದೀರಿ</string>
+    <string name="cue_arrived_meaning">ಮುಂಭಾಗದಲ್ಲಿ ತುಂಬಾ ವೇಗದ ಕಂಪನ</string>
+
+    <string name="comm_title">ಸಂವಹನ</string>
+    <string name="comm_language_title">ಭಾಷೆ (ಮಾತನಾಡಲು ಮತ್ತು ಕೇಳಲು)</string>
+    <string name="comm_selected">%1$s (ಆಯ್ಕೆಯಾಗಿದೆ)</string>
+    <string name="comm_listen_title">ಇನ್ನೊಬ್ಬರ ಮಾತು ಕೇಳಿ</string>
+    <string name="comm_listening">ಕೇಳಲಾಗುತ್ತಿದೆ…</string>
+    <string name="comm_hearing">ಕೇಳಿಸಿದ್ದು: %1$s</string>
+    <string name="comm_listen_hint">ಫೋನ್ ಮಾತನಾಡುವವರ ಹತ್ತಿರ ಹಿಡಿದು, ಬಟನ್ ಒತ್ತಿ, ಮಾತನಾಡಲು ಹೇಳಿ.</string>
+    <string name="comm_listen">ಕೇಳಿ</string>
+    <string name="comm_stop_listening">ಕೇಳುವುದನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="comm_conversation">ಸಂಭಾಷಣೆ</string>
+    <string name="comm_no_messages">ಇನ್ನೂ ಸಂದೇಶಗಳಿಲ್ಲ.</string>
+    <string name="comm_you">ನೀವು</string>
+    <string name="comm_other">ಇನ್ನೊಬ್ಬ ವ್ಯಕ್ತಿ</string>
+    <string name="comm_clear">ಸಂಭಾಷಣೆ ಅಳಿಸಿ</string>
+    <string name="comm_quick">ತ್ವರಿತ ಸಂದೇಶಗಳು (ಜೋರಾಗಿ ಹೇಳಲಾಗುತ್ತದೆ)</string>
+    <string name="comm_type">ಸಂದೇಶ ಟೈಪ್ ಮಾಡಿ</string>
+    <string name="comm_message">ಸಂದೇಶ</string>
+    <string name="comm_speak">ಹೇಳಿ</string>
+    <string name="comm_braille_title">ಬ್ರೈಲ್ ಡಿಸ್‌ಪ್ಲೇ</string>
+    <string name="comm_braille_desc">ಟಾಕ್‌ಬ್ಯಾಕ್ ಆನ್ ಆಗಿದ್ದಾಗ, ಮೇಲಿನ ಸಂಭಾಷಣೆ ಸೇರಿದಂತೆ ಸ್ಕ್ರೀನ್ ರೀಡರ್ ಔಟ್‌ಪುಟ್ ಅನ್ನು ಜೋಡಿಸಿದ ಬ್ಲೂಟೂತ್ ಬ್ರೈಲ್ ಡಿಸ್‌ಪ್ಲೇಗೆ ಆಂಡ್ರಾಯ್ಡ್ ಕಳುಹಿಸುತ್ತದೆ. PROJEXA ಯಾವುದೇ ತಯಾರಕರ ಸ್ವಂತ ಪ್ರೋಟೋಕಾಲ್ ಬಳಸುವುದಿಲ್ಲ.</string>
+    <string name="comm_braille_pair">1. ಬ್ಲೂಟೂತ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಡಿಸ್‌ಪ್ಲೇ ಜೋಡಿಸಿ</string>
+    <string name="comm_braille_access">2. ಆಕ್ಸೆಸಿಬಿಲಿಟಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ (ಟಾಕ್‌ಬ್ಯಾಕ್, ಬ್ರೈಲ್)</string>
+</resources>

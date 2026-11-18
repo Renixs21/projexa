@@ -1,0 +1,22 @@
+# Gradle / Android build output
+.gradle/
+.kotlin/
+build/
+app/build/
+*.apk
+*.aab
+
+# Machine-specific
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Emulator / misc logs
+screenshots/emu.log
+*.log
+
+# Local preview screenshots
+screenshots/
